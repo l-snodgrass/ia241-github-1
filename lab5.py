@@ -39,7 +39,7 @@ if age < 10 :
     print('You are a kid.')
     if age > 65:
         print('You are an elder.')
-elif age <= 20:
+elif age < 20:
     print('You are a teenager.')
 else:
     print('You are an adult.')
