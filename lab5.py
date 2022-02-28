@@ -33,16 +33,16 @@ if 'kiwis' in favourite_fruits:
     
 #5.4
 
-age = 20
+age = 65
 
-if age < 10 :
-    print('You are a kid.')
+if age >= 20 :
+    print('You are an adult.')
     if age > 65:
         print('You are an elder.')
-elif age < 20:
+elif age > 10:
     print('You are a teenager.')
 else:
-    print('You are an adult.')
+    print('You are a kid.')
     
 
 
