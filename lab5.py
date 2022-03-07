@@ -33,7 +33,7 @@ if 'kiwis' in favourite_fruits:
     
 #5.4
 
-age = 65
+age = 24
 
 if age >= 20 :
     print('You are an adult.')
