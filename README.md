@@ -24,6 +24,6 @@ p3
 
 [jmu](https://www.jmu.edu)
 
-##2nd heading
+## 2nd heading
 
-###3rd heading
+### 3rd heading
